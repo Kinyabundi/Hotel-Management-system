@@ -12,6 +12,7 @@ import { getDatabase, ref, set } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyCVrQHPp5Fi1v4G0xnh_SNKnyFfP256GxY",
   authDomain: "hotel-room-booking-syste-dfbb7.firebaseapp.com",
+  databaseURL: "https://hotel-room-booking-syste-dfbb7-default-rtdb.firebaseio.com/",
   projectId: "hotel-room-booking-syste-dfbb7",
   storageBucket: "hotel-room-booking-syste-dfbb7.appspot.com",
   messagingSenderId: "897763065291",
